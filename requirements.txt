@@ -1,2 +1,4 @@
 Django==3.0.3
+django-secrets
 nginx==1.17.8 
+
